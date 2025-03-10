@@ -2,11 +2,11 @@
 
 # Análise de Finalizações no BJJ 🥋📊
 
-Este repositório contém projetos focados na análise de finalizações no Brazilian Jiu-Jitsu (BJJ). Nosso objetivo é investigar, a partir de dados reais, quais técnicas de finalização ocorrem com maior frequência e entender os caminhos que levam a elas, com ênfase no domínio posicional, especialmente através das pegadas de costas.
+Este repositório contém projetos focados na análise de finalizações no Brazilian Jiu-Jitsu (BJJ). O objetivo é investigar, a partir de dados reais, quais técnicas de finalização ocorrem com maior frequência e entender os caminhos que levam a elas, com ênfase no domínio posicional, especialmente através das pegadas de costas.
 
 ## 📋 Visão Geral
 
-No universo do BJJ, é amplamente afirmado que posições de domínio, como a pegada de costas e a montada, são fundamentais para o sucesso nas finalizações. Este projeto se propõe a:
+No universo do jiu-jitsu, é amplamente afirmado que posições de domínio, como a pegada de costas e a montada, são fundamentais para o sucesso nas finalizações. Este projeto se propõe a:
 - Extrair dados de finalizações de lutadores do site [BJJ Heroes](https://www.bjjheroes.com);
 - Processar e organizar essas informações utilizando Python;
 - Visualizar os dados para identificar padrões e tendências, evidenciando a eficácia das posições de domínio, com foco nas costas.
