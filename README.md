@@ -1,6 +1,4 @@
-# analise-finalizacoes-BJJ
-
-## Táticas e Transições: Insights Técnicos sobre Submissões no Jiu-Jitsu 🥋📊
+##  Insights Técnicos sobre Submissões no Jiu-Jitsu 🥋📊
 
 Este repositório contém projetos focados na análise de finalizações no Brazilian Jiu-Jitsu (BJJ). O objetivo é investigar, a partir de dados reais, quais técnicas de finalização ocorrem com maior frequência e entender os caminhos que levam a elas, com ênfase no domínio posicional, especialmente através das pegadas de costas.
 
