@@ -1,8 +1,14 @@
-##  Insights Técnicos sobre Submissões no Jiu-Jitsu 🥋📊
+##  15,000 Lutas analisadas 🥋📊
 
-Este repositório contém projetos focados na análise de finalizações no Brazilian Jiu-Jitsu (BJJ). O objetivo é investigar, a partir de dados reais, quais técnicas de finalização ocorrem com maior frequência, especialmente através das pegadas de costas.
+Este projeto é uma análise técnica detalhada de mais de 15.000 lutas de Brazilian Jiu-Jitsu (BJJ), combinando webscraping avançado e limpeza rigorosa de dados para desvendar padrões  em competições profissionais.
 
 ## 📋 Visão Geral
+
+Quais são as finalizações mais frequentes em competições de jiu-jitsu?
+
+Como se distribuem as finalizações ao longo das lutas?
+
+Quantas finalizações são realizadas a partir da posição de costas e qual a sua porcentagem em relação às demais finalizações?
 
 No universo do jiu-jitsu, é amplamente afirmado que posições de domínio, como a pegada de costas e a montada, são fundamentais para o sucesso nas finalizações. Este projeto se propõe a:
 - Extrair dados de finalizações de lutadores do site [BJJ Heroes](https://www.bjjheroes.com);
