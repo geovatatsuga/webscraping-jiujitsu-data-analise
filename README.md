@@ -33,3 +33,4 @@ No universo do jiu-jitsu, é amplamente afirmado que posições de domínio, com
 - **matplotlib**
 - **seaborn**
 
+Leia no Medium : https://medium.com/@jeova.anderson/analise-de-dados-no-jiu-jitsu-o-que-15-mil-combates-no-jiu-jitsu-nos-ensinaram-3819584c1755
